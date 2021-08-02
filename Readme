@@ -1,1 +1,5 @@
 Es una ejericio de re-crear un spotify, con la api de spotify
+
+npm install para instalar mode-modules
+
+npm start para correr el programa
